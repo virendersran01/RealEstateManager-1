@@ -6,7 +6,7 @@
     android:background="@drawable/main_bck"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="com.openclassrooms.realestatemanager.ui.activities.MainActivity">
+    tools:context="com.virtualstudios.realestatemanager.ui.activities.MainActivity">
 
 
     <!--starter code from bug fix-->
